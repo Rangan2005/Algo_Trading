@@ -55,4 +55,4 @@ Accuracy for RELIANCE.NS: 46.67%
 
 Accuracy for ITC.NS: 66.67%
 
-Accuracy for TCS.NS: 0.4667
+Accuracy for TCS.NS: 46.67%
