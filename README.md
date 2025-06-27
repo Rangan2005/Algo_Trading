@@ -52,5 +52,7 @@ Buy Signal when DMA20 crosses over DMA50, Sell Signal when DMA50 crosses over DM
 Decision Tree Classifier was used
 
 Accuracy for RELIANCE.NS: 46.67%
+
 Accuracy for ITC.NS: 66.67%
+
 Accuracy for TCS.NS: 0.4667
